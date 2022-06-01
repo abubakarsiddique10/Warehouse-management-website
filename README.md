@@ -1,6 +1,6 @@
 # Warehouse Management Website
 
-## [Warehouse Management Website live site](https://phone-corner-e38c5.web.app/)
+## [Live Website Link](https://phone-corner-e38c5.web.app/)
 
 ## [Client Side repository link](https://github.com/abubakarsiddique10/warehouse-management-client-side)
 Click here for the client side repository link: [https://github.com/abubakarsiddique10/warehouse-management-client-side](https://github.com/abubakarsiddique10/warehouse-management-client-side)
